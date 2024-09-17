@@ -6,18 +6,18 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Remi",
+  firstName: "Shahab",
   middleName: "",
-  lastName: "Mestdagh",
-  message: " Passionate about changing the world with technology. ",
+  lastName: "Sotudian",
+  message: " MLE. ",
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/remimestdagh",
+      url: "https://github.com/sotudian",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/remi-mestdagh-377961185/",
+      url: "https://www.linkedin.com/in/sotudian/",
     },
   ],
 };
